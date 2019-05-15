@@ -1,2 +1,4 @@
 # Json_Library
-Geliştirilmek ve yardımcı olmak adına "C" dilinde hazırlamış olduğum json deserialize kütüphanesini paylaşıyorum.
+  * Author				: Fatih YAZMAN
+  *	Web					  : www.fatihyazman.com
+  * Contact				: iletisim@fatihyazman.com - fatihyazman16@gmail.com
